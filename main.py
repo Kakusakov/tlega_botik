@@ -1,7 +1,7 @@
-from config import *
-import telebot as tb
 import traceback
 from time import sleep
+import telebot as tb
+from config import *
 from text_response import handle_response
 
 
